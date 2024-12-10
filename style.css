@@ -1,0 +1,28 @@
+body{
+    min-height: 100svh;
+    background-color: white;
+}
+.heading{
+    color: blue;
+}
+.login-form{
+    width: 40%;
+    background-color: white;
+}
+p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+input{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 250px;
+}
+button{
+    color: white;
+    background-color: blue;
+    width: 200px;
+    height: 25px;
+}
+
